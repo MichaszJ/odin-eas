@@ -1,1 +1,1 @@
-# Odin Etch-a-Sketch Project test
+# Odin Etch-a-Sketch Project
