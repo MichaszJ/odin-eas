@@ -1,1 +1,1 @@
-# odin-eas
+# Odin Etch-a-Sketch Project
