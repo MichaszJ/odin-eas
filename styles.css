@@ -1,5 +1,12 @@
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #264653;
+    /* color: #e9c46a; */
+    color: white;
+}
+
+h1 {
+    color: #e9c46a;
 }
 
 .main-area {
@@ -17,11 +24,11 @@ body {
 }
 
 .grid-element {
-    background-color: beige;
+    background-color: #2a9d8f;
 }
 
 .grid-hover {
-    background-color: aqua;
+    background-color: #e9c46a;
 }
 
 .slider-container {
